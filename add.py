@@ -3,7 +3,7 @@ def add(a,b):
 
 add(1,4)
 
-def sub(c,d)
+def sub(c,d):
     print(c-d)
 
 sub(3,1)
